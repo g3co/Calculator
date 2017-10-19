@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="edit_message">First field</string>
+    <string name="edit_message_second">Second field</string>
+    <string name="button_send">=</string>
+    <string name="result_field">Result</string>
+</resources>
